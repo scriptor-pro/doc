@@ -52,6 +52,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Chitchatter](https://chitchatter.im/) | chat p2p encrypted serverless ephemeral decentralized | [Upstream](https://github.com/jeremyckahn/chitchatter) |  |
 | [CheckUp](https://sourcegraph.github.io/checkup) |  | [Upstream](https://github.com/sourcegraph/checkup) |  |
 | [Citadel-suite](https://www.citadel.org) | Groupware platform |  |  |
+| [ClassicPress](https://www.classicpress.net/) | WordPress forked before it became an ugly bloated monster. Security first approach |  | |
 | [CKAN](https://ckan.org/) | A tool for making open data websites | [Upstream](https://github.com/ckan/ckan) |  |
 | [CloudTube](https://tube.cadence.moe/) | CloudTube front-end for YouTube | [Upstream](https://git.sr.ht/~cadence/cloudtube) |  |
 | Commafeed |  | [Upstream](https://github.com/Athou/commafeed) |  |
